@@ -17,13 +17,9 @@ public class Main_2 extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_2);
-
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottomNavigationView);
-
         NavController navController = Navigation.findNavController(this,R.id.nav_host_fragment_2);
-
         NavigationUI.setupWithNavController(bottomNavigationView,navController);
-
 
     }
     public void showDatePickerDialog(View v)

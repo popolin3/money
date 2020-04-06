@@ -20,7 +20,7 @@ public class Main_2 extends AppCompatActivity {
         BottomNavigationView bottomNavigationView = findViewById(R.id.bottomNavigationView);
         NavController navController = Navigation.findNavController(this,R.id.nav_host_fragment_2);
         NavigationUI.setupWithNavController(bottomNavigationView,navController);
-//123123
+
     }
     public void showDatePickerDialog(View v)
     {

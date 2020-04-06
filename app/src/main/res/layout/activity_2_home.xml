@@ -108,7 +108,7 @@
         android:contentDescription="輸入備註"
         android:ems="10"
         android:gravity="start|top"
-        android:hint="輸入備註12345"
+        android:hint="輸入備註"
         android:inputType="textMultiLine"
         android:theme="@style/at2"
         app:layout_constraintEnd_toEndOf="@+id/button10"

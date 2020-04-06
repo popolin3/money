@@ -8,7 +8,7 @@
 
     tools:context=".Main_2">
 
-
+<!--    123123-->
     <com.google.android.material.bottomnavigation.BottomNavigationView
         android:id="@+id/bottomNavigationView"
         android:layout_width="0dp"
